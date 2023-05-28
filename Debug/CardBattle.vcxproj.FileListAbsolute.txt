@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\CardBattle\Debug\CardBattle.exe
+C:\Users\Administrator\source\repos\CardBattle\Debug\CardBattle.pdb
